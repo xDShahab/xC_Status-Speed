@@ -1,6 +1,8 @@
 fx_version 'adamant'
 game 'gta5'
 
+author 'xCoore Community - `Shahab#0128 - Discord.gg/xCoore'
+description 'xCoore Fast Menu'
 
 client_script "client.lua"
 server_scripts{
